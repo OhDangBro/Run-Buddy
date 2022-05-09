@@ -6,7 +6,17 @@
   }
   .page-title {
     width: 80%;
-    margin: center;
+    margin: 0 auto 0 auto;
     }
+
+    article p {
+      color: #024e76;
+ }
+
+ h3 p {
+font-size: 25px;
+margin: 20px 0 
+ }
+ 
 
   /* COULDNT FIGURE OUT MODULE 1.7.8 */
